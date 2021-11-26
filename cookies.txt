@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+br.grandchase.net	TRUE	/	FALSE	1999999999	AWSALB	B7poKj1t4w7N8g1JNSgZJ11aNuYRmyo7Y5IbyGFC+VY47TfMaTSXSSsyelxUbXmw0udt1/7/ybFF239xYrxLKqwhVx/qtJhGHHKsEclEWxu2byamgiZS0Ckba2ii
+br.grandchase.net	TRUE	/	FALSE	1999999999	AWSALBCORS	B7poKj1t4w7N8g1JNSgZJ11aNuYRmyo7Y5IbyGFC+VY47TfMaTSXSSsyelxUbXmw0udt1/7/ybFF239xYrxLKqwhVx/qtJhGHHKsEclEWxu2byamgiZS0Ckba2ii
+br.grandchase.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.grandchase.net	TRUE	/	FALSE	1999999999	AWSALB	p8PsrRg1Ok4V/YAsqrKNAqlWfYCEbNHNt6fvuFZuFzzGyQapPKIXZe4JKzzzKD3gIZvqOV1V8WuJQepZCPCtjLp022PvPiSipzkXqqS1txBU21lLZQLyXd4QiSi/
+www.grandchase.net	TRUE	/	FALSE	1999999999	AWSALBCORS	p8PsrRg1Ok4V/YAsqrKNAqlWfYCEbNHNt6fvuFZuFzzGyQapPKIXZe4JKzzzKD3gIZvqOV1V8WuJQepZCPCtjLp022PvPiSipzkXqqS1txBU21lLZQLyXd4QiSi/
+www.grandchase.net	TRUE	/	FALSE	1999999999	SameSite	None
+
